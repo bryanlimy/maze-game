@@ -1,4 +1,4 @@
-# maze-game
+# Maze Game
 Implemented a simple maze game in Java
 
 Our maze is a 2-dimensional grid. Each cell in this grid is either a
